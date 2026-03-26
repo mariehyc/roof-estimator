@@ -1,0 +1,9 @@
+{
+  "labor_index": 1.0,
+  "price_variance": 0.15,
+  "neighborhoods": {
+    "downtown": 1.25,
+    "suburban": 1.0,
+    "budget": 0.9
+  }
+}

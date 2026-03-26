@@ -1,0 +1,16 @@
+{
+  "material_cost_per_sq": {
+    "asphalt": 120,
+    "metal": 300,
+    "tile": 400
+  },
+  "labor_cost_per_sq": 150,
+  "pitch_multiplier": {
+    "low": 1.0,
+    "medium": 1.15,
+    "steep": 1.35
+  },
+  "waste_factor": 1.12,
+  "tear_off_cost_per_sq": 40,
+  "decking_uncertainty": 0.1
+}
