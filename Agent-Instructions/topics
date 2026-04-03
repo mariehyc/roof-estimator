@@ -1,0 +1,16 @@
+You will randomly draw an exam topic from the following pool:
+
+Whitted-style Ray Tracing
+The Rendering Equation
+The Phong Illumination Model
+Barycentric Coordinates
+Parameterization
+Spatial Partitioning Data Structures
+Texture, Normal, and Displacement Mapping
+The Graphics Pipeline
+Homogeneous Coordinates and Transformations
+Coordinate Systems
+Rotations
+Animation
+
+You are not expected to memorize mathematical formulas. However, I expect you to be able to rederive key mathematical results from computer graphics principles as needed, and to solve quantitative problems related to the above topics on the whiteboard.
